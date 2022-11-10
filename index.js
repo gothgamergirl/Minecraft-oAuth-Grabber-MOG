@@ -4,7 +4,6 @@ const client_id = 'client_id'
 const redirect_uri = 'redirect_uri'
 const webhook_url = 'webhook'
 //Requirements
-require("dotenv").config()
 const axios = require('axios')
 const express = require('express')
 const app = express()
